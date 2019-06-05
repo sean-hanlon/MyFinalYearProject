@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="14a9c948-9629-4436-8767-6cc5465e4db0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/FYP/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FYP/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FYP/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FYP/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FYP/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FYP/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FYP/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FYP/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FYP/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/FYP/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FYP/app/src/debug/res/raw/traildata2.kml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FYP/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FYP/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FYP/app/src/main/java/com/example/seanh_000/dblogin/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/FYP/app/src/main/java/com/example/seanh_000/dblogin/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FYP/app/src/main/java/com/example/seanh_000/dblogin/MapsActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/FYP/app/src/main/java/com/example/seanh_000/dblogin/MapsActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FYP/app/src/main/java/com/example/seanh_000/dblogin/Users.java" beforeDir="false" afterPath="$PROJECT_DIR$/FYP/app/src/main/java/com/example/seanh_000/dblogin/Users.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FYP/app/src/main/res/layout/activity_login.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FYP/app/src/main/res/layout/activity_login.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FYP/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FYP/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FYP/app/src/main/res/layout/activity_maps.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FYP/app/src/main/res/layout/activity_maps.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FYP/app/src/main/res/layout/activity_users.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FYP/app/src/main/res/layout/activity_users.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FYP/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FYP/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FYP/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FYP/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FYP/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/FYP/build.gradle" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="500003193">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/FYP" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="140" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="970" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="FYP" type="1abcf292:AndroidViewProjectNode" />
+              <item name="main" type="e9137016:NonAndroidModuleNode" />
+            </path>
+            <path>
+              <item name="FYP" type="1abcf292:AndroidViewProjectNode" />
+              <item name="main" type="e9137016:NonAndroidModuleNode" />
+              <item name="java" type="f7eae187:NonAndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="FYP" type="1abcf292:AndroidViewProjectNode" />
+              <item name="main" type="e9137016:NonAndroidModuleNode" />
+              <item name="java" type="f7eae187:NonAndroidSourceTypeNode" />
+              <item name="dblogin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FYP" type="1abcf292:AndroidViewProjectNode" />
+              <item name="main" type="e9137016:NonAndroidModuleNode" />
+              <item name="java" type="f7eae187:NonAndroidSourceTypeNode" />
+              <item name="dblogin" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/FYP" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="14a9c948-9629-4436-8767-6cc5465e4db0" name="Default Changelist" comment="" />
+      <created>1556724866064</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556724866064</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Capture Tool" />
+      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.3294621" />
+      <window_info id="Structure" side_tool="true" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Build Variants" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Logcat" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Android Profiler" show_stripe_button="false" />
+      <window_info anchor="right" id="Device File Explorer" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Palette&#9;" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
